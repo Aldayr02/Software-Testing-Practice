@@ -1,2 +1,2 @@
 # Software testing
-# This is the repository to practice the excercise in the class
+# This is the repository to practice the exercises in the class
