@@ -31,5 +31,3 @@ Tag any specific individuals or teams you'd like to review this pull request.
 
 **Additional Comments:**
 Add any additional comments or context here.
-
-
