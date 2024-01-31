@@ -1,7 +1,7 @@
 # Software testing
 This is the repository to practice the exercises in the class and follows the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/#specification).
 
-# Template for commints
+# Template for commits
 **This is what a commit should look like this:**
 
     <type>[optional scope]: <description>
