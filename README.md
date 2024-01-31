@@ -4,8 +4,8 @@ This is the repository to practice the exercises in the class and follows the [C
 # Template for commints
 **This is what a commit should look like this:**
 
-    <type>[optional scope]: <description>                         
-    [optional body]         
+    <type>[optional scope]: <description>
+    [optional body]
     [optional footer(s)]
 
 **The commit contains the following structural elements, to communicate intent to the consumers of your library:**
@@ -24,13 +24,13 @@ Additional types are not mandated by the Conventional Commits specification, and
 
 # Examples
 **Commit message with description and breaking change footer**
-    
+
     feat: allow provided config object to extend other configs
 
     BREAKING CHANGE: `extends` key in config file is now used for extending other config files
 
 **Commit message with ! to draw attention to breaking change**
-    
+
     feat!: send an email to the customer when a product is shipped
 
 **Commit message with scope and ! to draw attention to breaking change**
@@ -61,4 +61,3 @@ Additional types are not mandated by the Conventional Commits specification, and
 
     Reviewed-by: Z
     Refs: #123
-
