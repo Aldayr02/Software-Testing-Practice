@@ -4,13 +4,13 @@ This is the repository to practice the exercises in the class and follows the [C
 # Template for commints
 **This is what a commit should look like this:**
 
-    <type>[optional scope]: <description>                         
-    [optional body]         
+    <type>[optional scope]: <description>
+    [optional body]
     [optional footer(s)]
 
 **The commit contains the following structural elements, to communicate intent to the consumers of your library:**
 
-- **fix:** a commit of the type `fix` patches a bug in your codebase (this correlates with PATCH in Semantic Versioning).
+- **fix:** a commit of the type `fix` patches a bug in your codebase(this correlates with PATCH in Semantic Versioning).
 
 - **feat:** a commit of the type `feat` introduces a new feature to the codebase (this correlates with MINOR in Semantic Versioning).
 
@@ -61,4 +61,3 @@ Additional types are not mandated by the Conventional Commits specification, and
 
     Reviewed-by: Z
     Refs: #123
-
