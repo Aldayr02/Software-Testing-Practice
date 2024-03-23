@@ -1,9 +1,9 @@
 from .code_to_test import (
+    calculate_items_shipping_cost,
+    calculate_order_total,
+    calculate_total_discount,
     check_number_status,
     validate_password,
-    calculate_total_discount,
-    calculate_order_total,
-    calculate_items_shipping_cost,
 )
 import unittest
 
