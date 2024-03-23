@@ -409,6 +409,7 @@ class TestCalculateOrderTotal(unittest.TestCase):
         self.assertEqual(calculate_order_total(items), 50)
 
 
+# 5
 class TestCalculateItemsShippingCost(unittest.TestCase):
 
     def test_standard_shipping_under_5(self):
