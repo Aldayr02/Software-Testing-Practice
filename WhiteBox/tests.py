@@ -6,7 +6,8 @@ from .code_to_test import (
     calculate_items_shipping_cost,
 )
 import unittest
-import re
+
+# import re
 
 
 # 1
