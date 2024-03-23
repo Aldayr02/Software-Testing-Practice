@@ -1,3 +1,5 @@
+import unittest
+
 from .code_to_test import (
     calculate_items_shipping_cost,
     calculate_order_total,
@@ -5,7 +7,6 @@ from .code_to_test import (
     check_number_status,
     validate_password,
 )
-import unittest
 
 # import re
 
